@@ -1,0 +1,6 @@
+flask>=3.0.0
+flask-socketio>=5.3.6
+requests>=2.31.0
+pyshark>=0.6
+scapy>=2.5.0
+python-dotenv>=1.0.0

@@ -13,7 +13,7 @@ Network forensics and threat intelligence platform. Captures live traffic, finge
 - **IP geolocation** — enriches every source IP with country, city, ISP, and ASN data
 - **Live world map** — animated arc lines trace active attack flows from source to your server
 - **Threat scoring** — each connection scored 0–100 across five behavioral signals
-- **AWS honeypot** — EC2 instance exposed on port 22 as bait; within hours of deployment receiving brute-force attempts from IP ranges across Iran, China, and Russia
+- **AWS honeypot** — EC2 instance exposed on port 22 as bait; within hours of deployment receiving brute-force attempts from IP ranges across -----------
 
 ---
 
@@ -49,7 +49,7 @@ AWS: EC2 · VPC · CloudWatch Logs · VPC Flow Logs · S3 · IAM
 | Port scan | 15+ distinct ports in 30s | +40 |
 | SSH/RDP brute force | 10+ hits to same port | +50 |
 | Suspicious port (C2/Tor) | 4444, 1337, 9050... | +30 |
-| High-risk country origin | Iran, Russia, China, DPRK | +20 |
+| High-risk country origin | --------- | +20 |
 | Data exfiltration | 5MB+ outbound to single IP | +60 |
 
 Severity levels: **Critical** (60+) · **High** (40+) · **Medium** (20+) · **Low**

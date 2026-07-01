@@ -13,7 +13,7 @@ Network forensics and threat intelligence platform. Captures live traffic, finge
 - **IP geolocation** — enriches every source IP with country, city, ISP, and ASN data
 - **Live world map** — animated arc lines trace active attack flows from source to your server
 - **Threat scoring** — each connection scored 0–100 across five behavioral signals
-- **AWS honeypot** — EC2 instance exposed on port 22 as bait; within hours of deployment receiving brute-force attempts from IP ranges across -----------
+- **AWS honeypot** — EC2 instance exposed on port 22 as bait; within hours of deployment receiving brute-force attempts from IP ranges across ------------
 
 ---
 
